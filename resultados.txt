@@ -1,0 +1,10 @@
+1, A guerra dos cem anos durou exatamente 100 anos, acerto
+2, O oxigênio é o elemento mais abundante na crosta terrestre, acerto
+3, O Sol gira em torno da Terra, acerto
+4, O livro "Dom Quixote" foi escrito por Miguel de Cervantes, acerto
+5, A constante matemática "pi" é um número inteiro, acerto
+6, O átomo é a menor partícula de um elemento químico, acerto
+7, O Brasil é o maior país do mundo em área territorial, acerto
+8, O músculo mais forte do corpo humano é a língua, acerto
+9, O aço é uma mistura de ferro e alumínio, acerto
+10, A Lua tem sua própria luz, erro
